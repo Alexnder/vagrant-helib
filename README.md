@@ -13,6 +13,6 @@ vagrant ssh
 ## Try (in vagrant)
 
 ```
-cd VDiscover/examples/testcases/
-sudo fextractor --dynamic bc
+cd /vagrant_data/client
+./client.py
 ```
